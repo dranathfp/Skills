@@ -1,6 +1,13 @@
 {
   "version": 2,
   "skills": {
+    "ffmpeg": {
+      "source": "digitalsamba/claude-code-video-toolkit",
+      "commit": "c96e66b42c82829caaf6e15605ebcb0d6bbf23c5",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/ffmpeg/SKILL.md",
+      "computedHash": "ff8e85c81bac9a0bc655b94893f06e60e34c42f3faa98ee60e2cdd51a0215013"
+    },
     "hyperframes": {
       "source": "heygen-com/hyperframes",
       "commit": "2a28e43685c6aaf53c215a77b123fc4f9ecbaa33",
