@@ -1,6 +1,13 @@
 {
   "version": 2,
   "skills": {
+    "hyperframes": {
+      "source": "heygen-com/hyperframes",
+      "commit": "2a28e43685c6aaf53c215a77b123fc4f9ecbaa33",
+      "sourceType": "github",
+      "skillPath": "skills/hyperframes/SKILL.md",
+      "computedHash": "6077cf87701bc6b45cb4ea5604deb368d934f9b418e477a90682a5f04b065cca"
+    },
     "remotion-best-practices": {
       "source": "remotion-dev/skills",
       "commit": "3e20ac75161bc34468845df714701cc9bf6075f4",
