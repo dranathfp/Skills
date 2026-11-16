@@ -28,6 +28,13 @@
       "sourceType": "github",
       "skillPath": "skills/remotion-best-practices/SKILL.md",
       "computedHash": "5540958b08abc0563cce5410712edf84736a944101e4848857869799cd0b1241"
+    },
+    "yt-dlp": {
+      "source": "lwmxiaobei/yt-dlp-skill",
+      "commit": "7ea92082e15ea19dc3f82e7fa24e155ebe4f44d3",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "1771a6591d64e70766e61cc184844b710dd3823ee47dce6e2c73e1b428c1cf30"
     }
   }
 }
