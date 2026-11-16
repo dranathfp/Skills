@@ -15,6 +15,13 @@
       "skillPath": "skills/hyperframes/SKILL.md",
       "computedHash": "6077cf87701bc6b45cb4ea5604deb368d934f9b418e477a90682a5f04b065cca"
     },
+    "openai-whisper-api": {
+      "source": "openclaw/openclaw",
+      "commit": "48cd549b1c48653061ec312e35fef62d13df62cf",
+      "sourceType": "github",
+      "skillPath": "skills/openai-whisper-api/SKILL.md",
+      "computedHash": "4198365e014c51780570872ed84b31fffbf8f830e66ea0a73503ff16ccbdcfd8"
+    },
     "remotion-best-practices": {
       "source": "remotion-dev/skills",
       "commit": "3e20ac75161bc34468845df714701cc9bf6075f4",
